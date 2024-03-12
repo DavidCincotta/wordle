@@ -1,0 +1,15 @@
+Language:        Cpp
+# Defines the C++ standard version to use
+Standard:        c++17
+
+# Use 4 spaces for indentation
+IndentWidth:     2
+# Use spaces instead of tabs
+UseTab:          Never
+
+# Column limit
+ColumnLimit:     80
+
+# Sort includes
+SortIncludes:    true
+
